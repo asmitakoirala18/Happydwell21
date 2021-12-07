@@ -1,7 +1,7 @@
 # Final Project real estate website
 ## Setup process
--pull repository
--composer install
+- pull repository
+- composer install
 -.env.example file copy to .env
 -php artisan key:generate
 -Add databse connection
